@@ -1,0 +1,32 @@
+[24-Sep-2022 12:02:59 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/goldieid/public_html/admin/classes/Database.php on line 11
+[24-Sep-2022 12:02:59 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 20
+[24-Sep-2022 12:02:59 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldieid/public_html/admin/classes/Credentials.php on line 21
+[24-Sep-2022 12:03:00 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 25
+[24-Sep-2022 12:03:01 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/goldieid/public_html/admin/classes/Database.php on line 11
+[24-Sep-2022 12:03:01 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 20
+[24-Sep-2022 12:03:01 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldieid/public_html/admin/classes/Credentials.php on line 21
+[24-Sep-2022 12:03:01 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 25
+[24-Sep-2022 12:03:01 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/goldieid/public_html/admin/classes/Database.php on line 11
+[24-Sep-2022 12:03:01 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 20
+[24-Sep-2022 12:03:01 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldieid/public_html/admin/classes/Credentials.php on line 21
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 25
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/goldieid/public_html/admin/classes/Database.php on line 11
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 20
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldieid/public_html/admin/classes/Credentials.php on line 21
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 25
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/goldieid/public_html/admin/classes/Database.php on line 11
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 20
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldieid/public_html/admin/classes/Credentials.php on line 21
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 25
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/goldieid/public_html/admin/classes/Database.php on line 11
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 20
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldieid/public_html/admin/classes/Credentials.php on line 21
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 25
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/goldieid/public_html/admin/classes/Database.php on line 11
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 20
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldieid/public_html/admin/classes/Credentials.php on line 21
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 25
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/goldieid/public_html/admin/classes/Database.php on line 11
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 20
+[24-Sep-2022 12:03:02 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldieid/public_html/admin/classes/Credentials.php on line 21
+[24-Sep-2022 12:03:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/goldieid/public_html/admin/classes/Credentials.php on line 25
